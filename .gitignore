@@ -1,4 +1,4 @@
 .idea
 node_modules
 payment_handler/node_modules/
-client/
+client/node_modules/
