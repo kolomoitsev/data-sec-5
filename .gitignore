@@ -1,0 +1,4 @@
+.idea
+node_modules
+payment_handler/node_modules/
+lab/node_modules/
